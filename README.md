@@ -1,16 +1,16 @@
-## Bluecar Data Analysis
+#### Bluecar Data Analysis
 
-## Introduction
+#### Introduction
 Why  
 Problem Stmt  
 Business Understanding
-## Data Analysis Format
+#### Data Analysis Format
 These are the steps taken to perform the analysis:  
 1.  
 2.
 
-## Technology & Framework Used
+#### Technology & Framework Used
 Python, Ipynb, Googlecolab
 
-### By JoyW 
-### 13/08/2021
+#### By JoyW 
+#### 13/08/2021
